@@ -1,0 +1,6 @@
+makefun-btc-race entry
+Copyright 2026 Quixyl-eng
+
+This product includes ideas documented in je-suis-tm/quant-trading
+(https://github.com/je-suis-tm/quant-trading), licensed under Apache-2.0.
+vendor/makefun-bars.ts is a byte-identical copy of the make.fun kit SDK.
